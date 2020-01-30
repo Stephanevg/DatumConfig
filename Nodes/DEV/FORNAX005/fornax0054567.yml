@@ -1,0 +1,7 @@
+NodeName: fornax0054567
+Tenant: FORNAX005
+Stage: DEV
+Services: Patching
+
+WSUSServer: "overwritten.domain.com"
+ReportServer: "overwritten.domain.com"

@@ -1,0 +1,6 @@
+ResolutionPrecedence:
+  - Nodes\$($Node.Stage)\$($Node.Tenant)
+  - Tenants\$($Node.Tenant)
+  - Stages\$($Node.Stage)
+  - Services\$($Node.Service)
+  - Roles\$($Node.Role)
